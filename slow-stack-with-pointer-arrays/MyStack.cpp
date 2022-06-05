@@ -32,7 +32,7 @@ int MyStack::stackSize(){
     return log_len;
 }
 bool MyStack::isStackEmpty(){
-    return log_len == 0 ? true : false;
+    return log_len == 0;
 }
 void MyStack::stackPush(int elem){
     if(log_len >= alloc_len)stackGrow();

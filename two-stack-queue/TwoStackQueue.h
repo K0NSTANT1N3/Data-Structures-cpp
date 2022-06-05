@@ -5,7 +5,7 @@
 #ifndef TWOSTACKQUEUE_H
 #define TWOSTACKQUEUE_H
 
-#include"MyStack.h"
+#include "../slow-stack-with-pointer-arrays/MyStack.h"
 
 
 class TwoStackQueue
