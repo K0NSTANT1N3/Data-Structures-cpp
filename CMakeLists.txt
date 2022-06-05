@@ -11,4 +11,4 @@ add_executable(Data-Structures-cpp
         permutation-combinations-subsets/PCS.cpp permutation-combinations-subsets/PCS.h
         slow-stack-with-pointer-arrays/MyStack.cpp slow-stack-with-pointer-arrays/MyStack.h
         two-stack-queue/TwoStackQueue.cpp two-stack-queue/TwoStackQueue.h
-        Main.cpp)
+        main.cpp)
